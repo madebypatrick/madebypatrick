@@ -7,7 +7,7 @@ Computer and Software Engineer
 My expertise lies in architecting robust applications, and seamlessly merging precision in coding with creative problem-solving.
 
 *   🌍  I'm based in Paris
-*   🖥️  See my portfolio at [patrickmade.com](https://patrickmade.com/)
+*   🖥️  See my portfolio at [Patrickmade.com](https://Patrickmade.com/)
 *   ✉️  You can contact me at [mugwaneza.hq@gmail.com](mailto:mugwaneza.hq@gmail.com)
 *   🧠  I'm learning Cloud computing
 *   🤝  I'm open to collaborating on Web development### Skills 

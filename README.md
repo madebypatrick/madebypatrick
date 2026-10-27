@@ -6,9 +6,9 @@ Computer and Software Engineer
 
 My expertise lies in architecting robust applications, and seamlessly merging precision in coding with creative problem-solving.
 
-*   🌍  I'm based in Kigali
-*   🖥️  See my portfolio at [madebypatrick.netlify.app](http://madebypatrick.netlify.app/)
-*   ✉️  You can contact me at [mugwanezapatrick6@gmail.com](mailto:mugwanezapatrick6@gmail.com)
+*   🌍  I'm based in Paris
+*   🖥️  See my portfolio at [patrickmade.com](https://patrickmade.com/)
+*   ✉️  You can contact me at [mugwaneza.hq@gmail.com](mailto:mugwaneza.hq@gmail.com)
 *   🧠  I'm learning Cloud computing
 *   🤝  I'm open to collaborating on Web development### Skills 
 <p align="left">
